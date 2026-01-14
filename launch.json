@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Example05Application<example05>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.trannam.example05.Example05Application",
+            "projectName": "example05",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
